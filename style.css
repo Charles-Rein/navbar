@@ -26,8 +26,11 @@ footer {
 footer a, footer a:after {
   font-size: 1em !important;
 }
-/*END BODY*/
-
+/**/
+.a {
+  background-color: #272627;
+  color: #706f70;
+}
 
   /*BLUE*/
   .b-blue, .b-blue:before {
@@ -49,7 +52,7 @@ footer a, footer a:after {
   text-decoration: none;
   padding: 5px;
   margin: 5px;
-  font-size: 15px;
+  font-size: 18px;
   transition: all .4s;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
